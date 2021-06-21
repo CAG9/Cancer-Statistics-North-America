@@ -4,7 +4,7 @@
 - Datasets
 ## Run
 * Clone this repository
-* In a terminal type: > python CodingChallenge.py 
+* In a terminal type: `python CodingChallenge.py`
 * Type as input : 
   * North America 
   * Mexico  
