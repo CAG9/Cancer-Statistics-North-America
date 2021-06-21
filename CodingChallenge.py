@@ -7,7 +7,7 @@ from matplotlib import pyplot as plt
 
 def Get_ICD_Gruoups(Mexico_newcases,Mexico_mortality,Usa_newcases,Usa_mortality,Canada_newcases,Canada_mortality,ICD_Codes):
 
-    # Store info from icd goups
+    # Store info from icd groups
     Mexico_newcases_icd = [0]*len(ICD_Codes)
     Mexico_mortality_icd = [0]*len(ICD_Codes)
     Usa_newcases_icd = [0]*len(ICD_Codes)
